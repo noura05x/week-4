@@ -23,7 +23,7 @@ This assignment shows how to build and evaluate a regression model using Python.
  ---
 ## Weekly Project: Image Classification with Transfer Learning
 
-This project implements an image classification system using transfer learning with PyTorch. It demonstrates a complete deep learning pipeline, starting from data loading and preprocessing to model training, evaluation, and optional deployment preparation using ONNX.
+This project implements an image classification system using transfer learning with PyTorch. It shows a complete deep learning pipeline, starting from data loading and preprocessing to model training, evaluation, and optional deployment preparation using ONNX.
 
 
 
