@@ -23,7 +23,7 @@ This assignment shows how to build and evaluate a regression model using Python.
  ---
 ## Neural Network Project
 
- A deep learning project that classifies natural scene images into 6 categories using Convolutional Neural Networks (CNN) and MobileNetV2. هف uses PyTorch to build and train image classification models that can automatically detect different types of natural scenes and urban environments.
+ A deep learning project that classifies natural scene images into 6 categories using Convolutional Neural Networks (CNN) and MobileNetV2. it uses PyTorch to build and train image classification models that can automatically detect different types of natural scenes and urban environments.
 
 
 
