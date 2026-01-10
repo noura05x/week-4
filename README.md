@@ -21,10 +21,9 @@ This assignment shows how to build and evaluate a regression model using Python.
  This assignment focuses on evaluating a trained machine learning model. It analyzes model performance and helps understand how well the model predicts the target values.
 
  ---
-## Neural Network Project
+## Weekly Project: Image Classification with Transfer Learning
 
- A deep learning project that classifies natural scene images into 6 categories using Convolutional Neural Networks (CNN) and MobileNetV2. it uses PyTorch to build and train image classification models that can automatically detect different types of natural scenes and urban environments.
-
+This project implements an image classification system using transfer learning with PyTorch. It demonstrates a complete deep learning pipeline, starting from data loading and preprocessing to model training, evaluation, and optional deployment preparation using ONNX.
 
 
 
